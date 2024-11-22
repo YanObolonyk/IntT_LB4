@@ -7,6 +7,13 @@
 </head>
 <body>
 
+    <h1>TEST</h1>
+
+<?php
+
+    echo "Hello!";
+    
+?>
 
 </body>
 </html>
